@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-I'm studing coding at 42 lyon after graduating from Department of History at NTU.
+I'm studing coding at 42 lyon. Aside from that, I have also
 
-- 🔭 I’m currently working on the last project of the school 42
-- 🌱 I’m currently learning js, react, nestjs ... and other skills that's required of the project
+- Studied at Forestry department
+- Graduated from History department
+- Admitted into CS department for master degree 
+- Teached Chinese online
+- Worked as commis de cuisine, where I'm in charge of all the cold dishes
+- Passed my DELF B2 with the score 52/100
+
+Currently
+
+- 🔭 I’m working on the last project of the school 42
 
 <!--
 **Sasha-Liu/Sasha-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
