@@ -33,7 +33,7 @@ Currently I'm trying to get in the habit of reading, and
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha-Liu&theme=dark&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha-Liu&theme=transparent&show_icons=true)
 
 
 <!--
