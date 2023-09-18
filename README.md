@@ -7,7 +7,7 @@ I'm studing coding at 42 lyon. Aside from that, I have also
 - Admitted into CS department for master degree 
 - Teached Chinese online
 - Worked as commis de cuisine, where I'm in charge of all the cold dishes
-- Passed my DELF B2 with the score 52/100
+- Passed my DELF B2 with 52/100
 
 Currently
 
