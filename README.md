@@ -9,7 +9,7 @@ I'm studing coding at 42 lyon. Aside from that, I have also
 - Worked as commis de cuisine, where I'm in charge of all the cold dishes
 - Passed my DELF B2 with 52/100
 
-Currently
+Currently I'm trying to get in the habit of reading, and 
 
 - 🔭 I’m working on the last project of the school 42
 
