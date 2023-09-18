@@ -14,13 +14,12 @@ Currently I'm trying to get in the habit of reading, and
 - 🔭 I’m working on the last project of the school 42
 
 
-
 ### Familiar with
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Learning
+### Learning 🌱
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,9 +30,6 @@ Currently I'm trying to get in the habit of reading, and
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha-Liu&theme=buefy&show_icons=true)
 
 
 <!--
@@ -49,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha-Liu&theme=buefy&show_icons=true)
 -->
