@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I'm Sasha 👋
 
 I'm studing coding at 42 lyon. Aside from that, I have also
 
