@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm studing coding at 42 lyon after graduating from Department of History at NTU.
+
+- 🔭 I’m currently working on the last project of the school 42
+- 🌱 I’m currently learning js, react, nestjs ... and other skills that's required of the project
+
 <!--
 **Sasha-Liu/Sasha-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
