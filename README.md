@@ -33,7 +33,7 @@ Currently I'm trying to get in the habit of reading, and
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Links
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/sasha-liu-hsliu/
+https://www.linkedin.com/in/sasha-liu-hsliu/
 
 <!--
 **Sasha-Liu/Sasha-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
